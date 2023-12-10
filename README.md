@@ -9,5 +9,3 @@
 Презентація: [task_01.pptx](task_01.pptx)  
 
 Тестові дані: [data.csv](data.csv)
-
-![Main window](window.png)
